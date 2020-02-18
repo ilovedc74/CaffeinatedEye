@@ -6,18 +6,20 @@ This is a psychological experiment about caffeine and visual attention.
 
 ---
 
-Included in this folder: 
+# Included: 
 
-### experiment codes 
+### Experiment codes 
 generate stimuli lists: `createStimFix.ipynb`
-### data wrangling 
+### Data wrangling 
 transforming EDF to asc to dat to csv: `dat2csv2_modified.py`
-### cleaning & combining 
+### Cleaning & combining 
 combining xls output "resp" to table: `questionresp_modified_base3.R`
-### data analysis codes
+### Data analysis codes
 `analysis1.R`, `analysis02.R`
 
-## Experiment notes: 
+---
+
+# Additional experiment notes: 
 
 https://hackmd.io/@ilovedc74/ByMEWIfGB
 
